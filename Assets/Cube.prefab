@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8873746729341747425}
   - component: {fileID: 1935731925064748058}
   - component: {fileID: 6422930158123217727}
+  - component: {fileID: 4912773201776298421}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -107,3 +108,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id: 
+--- !u!114 &4912773201776298421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4883767124675744371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7068d727c59e1e84c8c621d1e8ff1170, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

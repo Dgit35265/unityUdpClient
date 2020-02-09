@@ -5,4 +5,9 @@ using UnityEngine;
 public class ID : MonoBehaviour
 {
     public string id;
+
+    void Update()
+    {
+        //Debug.Log(id);
+    }
 }
